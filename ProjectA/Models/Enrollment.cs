@@ -7,5 +7,9 @@ namespace ProjectA.Models
 {
     public class Enrollment
     {
+        public Enrollment(int id)
+        {
+            //contructor with parameters.
+        }
     }
 }
