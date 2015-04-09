@@ -5,8 +5,7 @@ using System.Web;
 
 namespace ProjectA.Models
 {
-    public class Expense
+    public class Enrollment
     {
-        //15.1 changes add aditional properties for configurator
     }
 }

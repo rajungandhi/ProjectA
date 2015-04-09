@@ -7,5 +7,6 @@ namespace ProjectA.Models
 {
     public class Timesheet
     {
+        //15.1 related changes for configurator
     }
 }
