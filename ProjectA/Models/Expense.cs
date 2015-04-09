@@ -7,5 +7,6 @@ namespace ProjectA.Models
 {
     public class Expense
     {
+        Enrollment enrollment = new Enrollment();
     }
 }
